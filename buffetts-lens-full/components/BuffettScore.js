@@ -1,1 +1,0 @@
-export default function BuffettScore() { return <div>Score: 88</div>; }
