@@ -1,0 +1,1 @@
+export default function ChatWithBuffett() { return <div>Ask Buffett a question</div>; }
